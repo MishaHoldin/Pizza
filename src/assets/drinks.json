@@ -1,0 +1,56 @@
+ [
+    {
+      "id": "0",
+      "imageUrl": "https://pngimg.com/uploads/cocacola/cocacola_PNG4.png",
+      "name": "Coca Cola  ",
+      "components": ["1.5 Л"],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    },
+     {
+      "id": "1",
+      "imageUrl": "https://pngimg.com/uploads/fanta/fanta_PNG23.png",
+      "name": "Fanta",
+      "components": ["1.5 Л"],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "2",
+      "imageUrl": "https://images.prom.ua/3078548434_w700_h500_gazirovannyj-napitok-sprite.jpg",
+      "name": "Sprite",
+      "components": ["1.5 Л"],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "3",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/sandora-fruktova-0.9l..jpg",
+      "name": "Сік Sandora в асортименті",
+      "components": ["1 Л"],
+      "price": 68,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "4",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/sadochok-fruktovyj-1l..jpg",
+      "name": "Сік Садочок в асортименті",
+      "components": ["1 Л"],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "5",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/11139461.jpg",
+      "name": "Сік Садочок в асортименті",
+      "components": ["0.2 Л"],
+      "price": 30,
+      "category": 3,
+      "rating": 4
+    }
+  ]

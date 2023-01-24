@@ -1,0 +1,56 @@
+ [
+    {
+      "id": 0,
+      "imageUrl": "https://thumb.tildacdn.com/tild3434-6266-4963-b834-636635303930/-/resize/250x/-/format/webp/IMG_7276.PNG",
+      "name": "Соус часниковий",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    },
+     {
+      "id": 1,
+      "imageUrl": "https://thumb.tildacdn.com/tild6265-3933-4763-a534-313861373632/-/resize/250x/-/format/webp/IMG_7277.PNG",
+      "name": "Соус барбекю",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    }, 
+    {
+      "id": 2,
+      "imageUrl": "https://thumb.tildacdn.com/tild6336-3630-4332-b033-353233643033/-/resize/250x/-/format/webp/IMG_7279.PNG",
+      "name": "кетчуп",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    }, 
+    {
+      "id": 3,
+      "imageUrl": "https://thumb.tildacdn.com/tild6432-6165-4230-b235-646236656537/-/resize/250x/-/format/webp/IMG_7278.PNG",
+      "name": "Амереканська гірчиця",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    }, 
+    {
+      "id": 4,
+      "imageUrl": "https://thumb.tildacdn.com/tild3633-3361-4737-a438-303433303839/-/resize/250x/-/format/webp/IMG_7274.PNG",
+      "name": "Соус солодкий чилі",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    }, 
+    {
+      "id": 5,
+      "imageUrl": "https://thumb.tildacdn.com/tild3664-3738-4266-a461-323137373838/-/resize/250x/-/format/webp/IMG_7285.PNG",
+      "name": "Соус бургер",
+      "components": ["40 г"],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    }
+  ]

@@ -1,0 +1,35 @@
+[
+  {
+      "id": "12",
+      "imageUrl": "https://monkey.zp.ua/wp-content/uploads/2021/01/3.jpg",
+      "title": "Кальцоне з куркою",
+      "types": [0, 1],
+      "price": 215,
+      "category": 2,
+      "rating": 7,
+      "components": "Складники: сир моцарелла, курка гриль, печериці, бекон, соус песто, та томати пелаті."
+    }
+    ,
+    {
+      "id": "13",
+      "imageUrl": "https://artpizza.com.ua/media/cache/90/dd/90dd0d8b02281286cf045d1877c90ca3.jpg",
+      "title": "Кальцоне Філадельфія",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 250,
+      "category": 2,
+      "rating": 8,
+      "components": "Складники: білий соус, сир філадельфія, сир моцарелла, шинка, салямі."
+    }
+    ,
+    {
+      "id": "14",
+      "imageUrl": "https://ikura.ua/Media/images/catalog/big/43d808c217ef923e8338859f83f516b1.jpg",
+      "title": "Кальцоне овочевий",
+      "types": [0, 1],
+      "price": 199,
+      "category": 2,
+      "rating": 3,
+      "components": "Складники: печериці, томати, солодкий перець, синя цибуля, бринза, моцарелла, фірмовий томатний соус, італійські трави."
+    }
+]

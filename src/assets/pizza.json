@@ -1,0 +1,301 @@
+ [
+    {
+      "id": "0",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/18dbb12240b041a191c9dc73c9c1f4ef_292x292.webp",
+      "title": "Салямі",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 170,
+      "category": 1,
+      "rating": 8,
+      "components": "Складники: томатний соус пілаті, сир моцарела, італійська ковбаса салямі."
+    },
+    {
+      "id": "1",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/9b0c599124a8414f89fd59967f3baa3d_292x292.webp",
+      "title": "Гавайська",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 199,
+      "category": 1,
+      "rating": 10,
+      "components": "Складники: вершковий соус, сир моцарела, філе куряче, ананас, кукурудза."
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d9c609f1422247f2b87b6293eb461ff0_292x292.webp",
+      "title": "Чотири сири",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 250,
+      "category": 1,
+      "rating": 8,
+      "components": "Складники: вершковий соус, сир моцарела, сир рікота, сир гауда, сир горгонзола, сир пармезан."
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://paparoni.com.ua/wp-content/uploads/2021/12/12_%D0%9C%D0%B8%D1%81%D0%BB%D0%B8%D0%B2%D1%81%D1%8C%D0%BA%D0%B0-1.jpg",
+      "title": "Мисливська",
+      "types": [1],
+      "sizes": [30, 40],
+      "price": 185,
+      "category": 1,
+      "rating": 6,
+      "components": "Складники: томатний соус пілаті, сир моцарела, мисливські ковбаски, шинка копчена, бекон, болгарський перець."
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/748949429e25404ea10aab002c910d84_292x292.webp",
+      "title": "Маргарита",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 135,
+      "category": 1,
+      "rating": 2,
+      "components": "Складники: сир моцарела, томатний соус."
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/45cc8ffb190c4a28aaf1863a67f675c7_292x292.webp",
+      "title": "Барбекю",
+      "types": [0],
+      "sizes": [30, 40],
+      "price": 175,
+      "category": 1,
+      "rating": 4,
+      "components": "Складники: барбекю соус, сир моцарела, бекон, куряче філе, гриби печериці, синя і зелена цибуля."
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d51fa179760041f0831e63fa21c39402_292x292.webp",
+      "title": "Чотири сезони",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 215,
+      "category": 1,
+      "rating": 6,
+      "components": "Складники: подвійна порція моцарели, шинка, пепероні, бринза, томати, печериці, італійські трави, томатний соус"
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/d6c9f93ea37649ac923e9586c034a5a0_292x292.webp",
+      "title": "Овочева",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 190,
+      "category": 1,
+      "rating": 3,
+      "components": "Складники: печериці, томати, солодкий перець, синя цибуля, бринза, моцарелла, фірмовий томатний соус, італійські трави."
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/fb9cc5b8ff2e47bdbcbdcb5930cddf06_292x292.webp",
+      "title": "Пепероні",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 190,
+      "category": 1,
+      "rating": 7,
+      "components": "Складники: томатний соус пілаті, сир моцарела, італійська гостра ковбаса Чорізо, гострий перець."
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/03c840b1ab6f4ccb84f5dc167e146598_292x292.webp",
+      "title": "Діабло",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 199,
+      "category": 1,
+      "rating": 6,
+      "components": "Складники: перепічка, томатний соус, салямі, томати, червона цибуля, сир моцарела, соус чилі, васабі."
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/42360a7dcb7640c998b723231586fe84_292x292.webp",
+      "title": "Чікен-чіз",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 185,
+      "category": 1,
+      "rating": 6,
+      "components": "Складники: Вершковий соус, моцарела, бекон, куряче філе запечене, томати, соус Ранчо."
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/0c24c7c195574d7cae45c889bd8043fc_292x292.webp",
+      "title": "Бамбіна",
+      "types": [0, 1],
+      "sizes": [30, 40],
+      "price": 170,
+      "category": 1,
+      "rating": 8,
+      "components": "Складники: томатний соус, сир моцарела, шинка, кукурудза."
+    },
+      {
+      "id": "12",
+      "imageUrl": "https://monkey.zp.ua/wp-content/uploads/2021/01/3.jpg",
+      "title": "Кальцоне з куркою",
+      "types": [0, 1],
+      "sizes": [30],
+      "price": 215,
+      "category": 2,
+      "rating": 7,
+      "components": "Складники: сир моцарелла, курка гриль, печериці, бекон, соус песто, та томати пелаті."
+    }
+    ,
+    {
+      "id": "13",
+      "imageUrl": "https://artpizza.com.ua/media/cache/90/dd/90dd0d8b02281286cf045d1877c90ca3.jpg",
+      "title": "Кальцоне Філадельфія",
+      "types": [0, 1],
+      "sizes": [30],
+      "price": 250,
+      "category": 2,
+      "rating": 8,
+      "components": "Складники: білий соус, сир філадельфія, сир моцарелла, шинка, салямі."
+    }
+    ,
+    {
+      "id": "14",
+      "imageUrl": "https://ikura.ua/Media/images/catalog/big/43d808c217ef923e8338859f83f516b1.jpg",
+      "title": "Кальцоне овочевий",
+      "types": [0, 1],
+      "sizes": [30],
+      "price": 199,
+      "category": 2,
+      "rating": 3,
+      "components": "Складники: печериці, томати, солодкий перець, синя цибуля, бринза, моцарелла, фірмовий томатний соус, італійські трави."
+    },
+    {
+      "id": "15",
+      "imageUrl": "https://pngimg.com/uploads/cocacola/cocacola_PNG4.png",
+      "title": "Coca Cola  ",
+      "components": ["1.5 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    },
+     {
+      "id": "16",
+      "imageUrl": "https://pngimg.com/uploads/fanta/fanta_PNG23.png",
+      "title": "Fanta",
+      "components": ["1.5 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "17",
+      "imageUrl": "https://images.prom.ua/3078548434_w700_h500_gazirovannyj-napitok-sprite.jpg",
+      "title": "Sprite",
+      "components": ["1.5 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "18",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/sandora-fruktova-0.9l..jpg",
+      "title": "Сік Sandora в асортименті",
+      "components": ["1 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 68,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "19",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/sadochok-fruktovyj-1l..jpg",
+      "title": "Сік Садочок в асортименті",
+      "components": ["1 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 60,
+      "category": 3,
+      "rating": 4
+    }, 
+    {
+      "id": "20",
+      "imageUrl": "https://prontopizza.ua/wp-content/uploads/2021/07/11139461.jpg",
+      "title": "Сік Садочок в асортименті",
+      "components": ["0.2 Л"],
+      "types": [],
+      "sizes": [],
+      "price": 30,
+      "category": 3,
+      "rating": 4
+    },
+    {
+      "id": "21",
+      "imageUrl": "https://thumb.tildacdn.com/tild3434-6266-4963-b834-636635303930/-/resize/250x/-/format/webp/IMG_7276.PNG",
+      "title": "Соус часниковий",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 0,
+      "rating": 4
+    },
+     {
+      "id": "22",
+      "imageUrl": "https://thumb.tildacdn.com/tild6265-3933-4763-a534-313861373632/-/resize/250x/-/format/webp/IMG_7277.PNG",
+      "title": "Соус барбекю",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 4,
+      "rating": 4
+    }, 
+    {
+      "id": "23",
+      "imageUrl": "https://thumb.tildacdn.com/tild6336-3630-4332-b033-353233643033/-/resize/250x/-/format/webp/IMG_7279.PNG",
+      "title": "кетчуп",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 4,
+      "rating": 4
+    }, 
+    {
+      "id": "24",
+      "imageUrl": "https://thumb.tildacdn.com/tild6432-6165-4230-b235-646236656537/-/resize/250x/-/format/webp/IMG_7278.PNG",
+      "title": "Амереканська гірчиця",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 4,
+      "rating": 4
+    }, 
+    {
+      "id": "25",
+      "imageUrl": "https://thumb.tildacdn.com/tild3633-3361-4737-a438-303433303839/-/resize/250x/-/format/webp/IMG_7274.PNG",
+      "title": "Соус солодкий чилі",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 4,
+      "rating": 4
+    }, 
+    {
+      "id": "26",
+      "imageUrl": "https://thumb.tildacdn.com/tild3664-3738-4266-a461-323137373838/-/resize/250x/-/format/webp/IMG_7285.PNG",
+      "title": "Соус бургер",
+      "components": ["40 г"],
+      "types": [],
+      "sizes": [],
+      "price": 15,
+      "category": 4,
+      "rating": 4
+    }
+  ]
